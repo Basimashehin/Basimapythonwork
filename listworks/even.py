@@ -53,3 +53,12 @@ for num in numbers:
 print(f"positive number count is {po_count}")
 print(f"negetive number count is {neg_count}")
 print(f"zero number count is {zero_count}")
+
+
+company="luminar"
+location="kakkanad"
+status="open"
+closes="9"
+
+print(company+" located at "+location+" is "+status+" closes at "+closes)
+
