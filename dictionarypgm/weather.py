@@ -34,3 +34,4 @@ for data in weather:
 print(out)
 
 
+print(sorted(out.items(),key=lambda i:i[1]))
